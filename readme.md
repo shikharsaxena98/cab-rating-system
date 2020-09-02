@@ -32,3 +32,7 @@ Both are identical collection that contain -
 2. run the command `npm install`.
 3. Create a .env file and provide a field MONGOADDRESS 
 4. Run `npm run start`.
+
+# API
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/874734b4eb1e9d1abf10)
