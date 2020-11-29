@@ -13,6 +13,7 @@ This app contains 2 types of components:
 To solve this problem, I have taken 2 types of users.
 1. Driver 
 2. User (Can also be called rider)
+
 After each ride, both the user and the driver have the option to rate each other. 
 Both the rider and user have a current rating which can go up or down according to the other person's rating.
 All ratings given by users to a driver are saved in an array and the same applies to each driver's rating as well.
